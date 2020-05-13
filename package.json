@@ -1,0 +1,21 @@
+{
+  "name": "node-load",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "adm-zip": "^0.4.14",
+    "compressing": "^1.5.1",
+    "request": "^2.88.2",
+    "rimraf": "^3.0.2",
+    "unzip": "^0.1.11",
+    "unzipper": "^0.10.11",
+    "urllib": "^2.34.2"
+  }
+}
